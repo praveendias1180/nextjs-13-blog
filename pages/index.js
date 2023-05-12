@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>Hi, I'm Praveen.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.) Added for testing.
         </p>
       </section>
 
